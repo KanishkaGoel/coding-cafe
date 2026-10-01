@@ -1,0 +1,109 @@
+    1  python3 --version
+    2  exit
+    3  cd
+    4  pwd
+    5  ls
+    6  clear
+    7  ls -a
+    8  ls -l
+    9  cls
+   10  clear
+   11  pwd
+   12  ls
+   13  clear
+   14  pwd
+   15  mkdir
+   16  mkdir coding-cafe
+   17  lss
+   18  ls
+   19  ls -a
+   20  ls -l
+   21  cd coding-cafe
+   22  pwd
+   23  cd
+   24  pwd
+   25  exit
+   26  pwd
+   27  cd Desktop
+   28  cd Desktop/
+   29  cd coding-cafe
+   30  cd coding-cafe/
+   31  cd Home
+   32  pwd
+   33  exit
+   34  cd
+   35  clear
+   36  cd coding-cafe
+   37  cd
+   38  cd coding-cafe/
+   39  mkdir week01/
+   40  cg week01/
+   41  cd weel01/
+   42  cd week01/
+   43  ls
+   44  mkdir week02
+   45  cd week02
+   46  cd ../week01
+   47  cd ../week02
+   48  clear
+   49  code VS Code
+   50  code notes.md
+   51  pwd
+   52  cd
+   53  cmd coding-cafe
+   54  cd coding-cafe
+   55  cd week01
+   56  code notes.md
+   57  pwd
+   58  ls
+   59  cd
+   60  pwd
+   61  ls
+   62  ls -a
+   63  ls -l
+   64  cd ~
+   65  mkdir coding-cafe
+   66  mkdr coding-cafe/week01
+   67  mkdir coding-cafe/weeko1
+   68  mkdir coding-cafe/week02
+   69  touch coding-cafe/README.md
+   70  touch coding-cafe/week02/notes.md
+   71  ls coding-cafe/week02
+   72  cd ~/coding-cafe
+   73  cp README.md README-backup.md
+   74  mv README-backup.md week01/
+   75  cd week01
+   76  mv README-backup.md old-readme.md
+   77  ls
+   78  cd ~/coding-cafe
+   79  pwd
+   80  echo $PATH
+   81  which python3
+   82  which pip
+   83  which ls
+   84  pyton3
+   85  ls
+   86  rmdir weeko1
+   87  ls
+   88  cd ~/coding-cafe
+   89  python3 -m venv .venv
+   90  sudo apt install python3-venv
+   91  apt install python3.14-venv
+   92  python3 -m venv .venv
+   93  ls -a
+   94  source .venv/bin/activate
+   95  sudo apt update
+   96  sudo apt install -y python3-venv
+   97  rm -rf .venv
+   98  python3 -m venv .venv
+   99  source .venv/bin/activate
+  100  pip list
+  101  pip install requests
+  102  pip list
+  103  deactivate
+  104  man ls
+  105  mam man
+  106  man man
+  107  python3
+  108  nano week02/notes.md
+  109  history > week02/lab01-log.txt
